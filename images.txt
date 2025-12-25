@@ -1,2 +1,1 @@
-docker.io/clickhouse/clickhouse-server
-
+cgr.dev/chainguard/minio
