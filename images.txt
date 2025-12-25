@@ -1,1 +1,1 @@
-docker.io/postgres
+postgres:15
