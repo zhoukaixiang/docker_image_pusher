@@ -1,1 +1,1 @@
-cgr.dev/chainguard/minio
+docker.io/redis:7
