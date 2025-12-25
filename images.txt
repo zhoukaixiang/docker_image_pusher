@@ -1,4 +1,2 @@
 docker.io/clickhouse/clickhouse-server
-cgr.dev/chainguard/minio
-docker.io/redis:7
-docker.io/postgres:${POSTGRES_VERSION:-17}
+
